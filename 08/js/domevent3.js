@@ -21,4 +21,4 @@ function changeStyle() {
 }
 function originStyle() {
   pic.style.border = "none";
-}
+} 

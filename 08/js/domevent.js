@@ -1,5 +1,6 @@
     var pic = document.querySelector('#pic');
-    
+    pic.addEventListener("mouseover", changePic);
+
 		function changePic() {			
 			pic.src = "images/boy.png";
     }
